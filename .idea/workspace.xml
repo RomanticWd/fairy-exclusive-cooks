@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e78069cc-0f04-4a47-8a98-dcc6b0b33e78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/imgs/dish1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/dish8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/slide1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/slide2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/slide3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xtVLVsvzQR8V7Hl6TZQZrCPhUf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\yue.liu2\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e78069cc-0f04-4a47-8a98-dcc6b0b33e78" name="Default Changelist" comment="" />
+      <created>1631174315646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631174315646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="195" width="757" height="650" key="find.popup" timestamp="1631174637246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="195" width="757" height="650" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631174637246" />
+  </component>
+</project>
